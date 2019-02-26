@@ -1,5 +1,5 @@
 # Self Balancing Robot
-The bot is able to hold balance on two wheels even when pushed/pulled around. **Check the [Wiki for Documentation](https://github.com/taralesca/SelfBalancingRobot)**
+The bot is able to hold balance on two wheels even when pushed/pulled around. **Check the [Wiki for Documentation](https://github.com/taralesca/SelfBalancingRobot/wiki/Documentation)**
 
 **YouTube**: https://www.youtube.com/
 
